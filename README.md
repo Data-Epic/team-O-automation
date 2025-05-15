@@ -114,11 +114,11 @@ python src/create_sentiment_chart.py
 
 ### Google Sheet: AI Sentiment, Summary, and Action Flag
 
-![Review Table](assets/AI_Summary,Sentiment,Action Table.png)
+![Review Table](assets/ai_summary_sentiment_action_table.png)
 
 ### Google Sheet: Sentiment Pie Chart
 
-![Sentiment Pie Chart](assets/Pie Chart.png)
+![Sentiment Pie Chart](assets/pie_chart.png)
 
 ---
 
